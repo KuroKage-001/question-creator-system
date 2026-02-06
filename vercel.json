@@ -3,3 +3,4 @@
   "outputDirectory": "client/dist",
   "installCommand": "cd client && npm install"
 }
+
